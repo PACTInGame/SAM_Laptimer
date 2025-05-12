@@ -1,0 +1,24 @@
+Lap Times
+=========
+Session started: 2025-05-12 12:13:56
+
+Lap 1: 6.20 seconds
+Lap 2: 19.70 seconds
+Lap 3: 6.13 seconds
+Lap 4: 3.06 seconds
+Lap 5: 3.34 seconds
+Lap 6: 5.55 seconds
+Lap 7: 3.42 seconds
+Lap 8: 17.26 seconds
+Lap 9: 4.07 seconds
+Lap 10: 16.90 seconds
+Lap 11: 8.01 seconds
+Lap 12: 8.40 seconds
+Lap 13: 8.42 seconds
+Lap 14: 8.40 seconds
+Lap 15: 7.81 seconds
+Lap 16: 7.75 seconds
+Lap 17: 7.39 seconds
+Lap 18: 7.34 seconds
+Lap 19: 11.49 seconds
+Lap 20: 3.01 seconds
